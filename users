@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "name": "Bergy",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "address": {
@@ -226,7 +226,7 @@
     "company": {
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
-      "bs": "target end-to-end models"
+      "bs": "test Bergy"
     }
   }
 ]
