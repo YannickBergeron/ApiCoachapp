@@ -9,7 +9,7 @@
       "id": 1,
       "name": "Hitting Drills from Tee to Toss and Live!",
       "link": "https://www.letsbuildthatapp.com/course/instagram-firebase",
-      "imageUrl": "https://drive.google.com/uc?export=view&id=1eUvJqc2wlF7PaW9wCUkSLhynGGbTDjjj",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1i66gYNsRKLANcsr2uY18tpZbv0k3DhG7",
       "channel": {
         "name": "Entourage Bergy Baseball",
         "profileimageUrl": "https://drive.google.com/file/d/1vgNzmS1u8eRsJr-Wbn-FKBwUaKQhGF5P/view?usp=sharing",
@@ -19,11 +19,11 @@
     },
     {
       "id": 2,
-      "name": "Intermediate Training Core Data",
+      "name": "Pitching drills from arm care to advance mechanics!",
       "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
-      "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/0736fecb-5b88-483b-a83d-ca2a5a6d93f9",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1oK83lFYUMckkuZNqlyniSqrYCF-bmjNf",
       "channel": {
-        "name": "Lets Build That App",
+        "name": "Entourage Bergy Baseball",
         "profileimageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
         "numberOfSubscribers": 100000
       },
@@ -31,15 +31,39 @@
     },
     {
       "id": 3,
-      "name": "Kindle Basics Training",
+      "name": "Catching Drills - Blocks,Catching and Throwdown",
       "link": "https://www.letsbuildthatapp.com/basic-training",
-      "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/114bec2f-fbfd-4b13-91de-907fe57c6e37",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1i66gYNsRKLANcsr2uY18tpZbv0k3DhG7",
       "channel": {
-        "name": "Lets Build That App",
+        "name": "Entourage Bergy Baseball",
         "profileimageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
         "numberOfSubscribers": 100000
       },
       "numberOfViews": 7500
+    },
+    {
+      "id": 4,
+      "name": "Infield Drills - Mechanics and speed!",
+      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1s6Nli_-qfQ83MZWb7M_lxYu1Z9uR-Xk7",
+      "channel": {
+        "name": "Entourage Bergy Baseball",
+        "profileimageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+        "numberOfSubscribers": 100000
+      },
+      "numberOfViews": 5000
+    },
+    {
+      "id": 5,
+      "name": "Outfield Drills - Mechanics and speed!",
+      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1EMVt4BWyKTv2nZcw5_CZQwqC9gfEvXEl",
+      "channel": {
+        "name": "Entourage Bergy Baseball",
+        "profileimageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+        "numberOfSubscribers": 100000
+      },
+      "numberOfViews": 5000
     }
   ]
 }
