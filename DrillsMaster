@@ -1,1 +1,828 @@
-
+[
+  {
+    "name": "Bergy - Tee - Rester a l'interieure",
+    "number": 1,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "ZYYut4CdhEg"
+  },
+  {
+    "name": "Bergy - Tee - Fermer 45",
+    "number": 2,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "td60krBinXc"
+  },
+  {
+    "name": "Bergy - Tee - Un genou au sol",
+    "number": 3,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "gE5KOheIi8Q"
+  },
+  {
+    "name": "Bergy - Tee - Rester sur le dessu",
+    "number": 4,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "8rZpFQcol2s"
+  },
+  {
+    "name": "Bergy - Tee - Sans Pas",
+    "number": 5,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "-eiqfgJMh-8"
+  },
+  {
+    "name": "Bergy - Tee - Tee Haut",
+    "number": 6,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "3534_oyAh-k"
+  },
+  {
+    "name": "Bergy - Tee - Rester a l'interieure avec extension",
+    "number": 7,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "7U3BWhuOiAQ"
+  },
+  {
+    "name": "Bergy - Tee - Élastique a une main (main du bas)",
+    "number": 8,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "gUcDauh44mk"
+  },
+  {
+    "name": "Bergy - Tee - Élastique a 2 mains",
+    "number": 9,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "NINMAg58aw8"
+  },
+  {
+    "name": "Bergy - Tee - Chaudiere pied arriere",
+    "number": 10,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "SRU_uBpIWQE"
+  },
+  {
+    "name": "Bergy - Tee - Vision point de contact",
+    "number": 11,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "8FFSupvwjfs"
+  },
+  {
+    "name": "Bergy - Tee - Une Main (bas)",
+    "number": 12,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "PBSctzNqp_0"
+  },
+  {
+    "name": "Bergy - Tee - Une Main (Haut)",
+    "number": 13,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "H4u1maofvu4"
+  },
+  {
+    "name": "Bergy - Tee - Pas- Pause - Elan",
+    "number": 14,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "VE2UdnlGvus"
+  },
+  {
+    "name": "Bergy - Tee - Baton de 6 pieds (PVC)",
+    "number": 15,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "CohU7UNDf28"
+  },
+  {
+    "name": "Bergy - Tee - Angle colonne vertebrale Vs Epaule (PVC)",
+    "number": 16,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "EWSE7NwrFiM"
+  },
+  {
+    "name": "Bergy - Tee - Coin Extérieur",
+    "number": 17,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "ajuDFtgmTbs"
+  },
+  {
+    "name": "Bergy - Tee - Coin Iterieur",
+    "number": 18,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "sOa75cbMfwM"
+  },
+  {
+    "name": "Bergy - Tee - Position de force jambe arrière (bucket)",
+    "number": 19,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "Q_QdXjTA9_A"
+  },
+  {
+    "name": "Tim Smith - Tee - On plane with PVC pipe",
+    "number": 20,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "7nEyCT-9KWc"
+  },
+  {
+    "name": "Tim Smith - Tee - On plane with PVC pipe & Bosu",
+    "number": 21,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "dt0qI7Z0fCk"
+  },
+  {
+    "name": "Tim Smith - Tee - On plane with direction PVC + Hurdle",
+    "number": 22,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "FEaWSliY6Zg"
+  },
+  {
+    "name": "Tim Smith - Tee - Stay inside the ball with PVC pipe",
+    "number": 23,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "VPk_zaMnpPQ"
+  },
+  {
+    "name": "Tim Smith - Tee - Feeler drill with PVC pipe",
+    "number": 24,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "oYbHyCCMYDs"
+  },
+  {
+    "name": "Tim Smith - Tee - PVC DBR Direction Block Rotation",
+    "number": 25,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "LmmMye_L_-c"
+  },
+  {
+    "name": "Tim Smith - Tee - Back foot tire with PVC pipe",
+    "number": 26,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "BcNKdXlkCgM"
+  },
+  {
+    "name": "Tim Smith - Tee - DBR drill Direction Block Rotation",
+    "number": 27,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "xTfZgGEZPwg"
+  },
+  {
+    "name": "Tim Smith - Tee - Back foot Bosu drill",
+    "number": 28,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "T4Gwyo3KRH8"
+  },
+  {
+    "name": "Tim Smith - Tee - Direction with the Hurdle",
+    "number": 29,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "oKeuYu3LWPU"
+  },
+  {
+    "name": "Tim Smith - Tee - Velcro drill",
+    "number": 30,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "GJjmkxOgxQI"
+  },
+  {
+    "name": "Tim Smith - Tee - 1 - 2 - 3 - Fire",
+    "number": 31,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "a8lAfuMq3q8"
+  },
+  {
+    "name": "Tim Smith - Tee - Ball on the shoulder drill",
+    "number": 32,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "lvtF-fF84j4"
+  },
+  {
+    "name": "Tim Smith - Tee - Step back drill",
+    "number": 33,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "nphN-WkDQWY"
+  },
+  {
+    "name": "Tim Smith - Tee - Walk through drill",
+    "number": 34,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "3tVuMwcV4qs"
+  },
+  {
+    "name": "Tim Smith - Tee - Axe drill",
+    "number": 35,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "0"
+  },
+  {
+    "name": "Tim Smith - Tee - Open 45° drill",
+    "number": 36,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "fyuRW1ZdJuY"
+  },
+  {
+    "name": "Tim Smith - Tee - Heavy ball drill",
+    "number": 37,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "bARWyMdHHP4"
+  },
+  {
+    "name": "Tim Smith - Tee - Two tees drill",
+    "number": 38,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "96zNBdhY-xU"
+  },
+  {
+    "name": "Tim Smith - Tee - Heel tap drill",
+    "number": 39,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "WZjrbJzUP10"
+  },
+  {
+    "name": "Tim Smith - Tee - Top hand high tee drill",
+    "number": 40,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "qKfgbxqpqnE"
+  },
+  {
+    "name": "Tim Smith - Tee - Med ball front toss drill",
+    "number": 41,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "zknuBpUrGa0"
+  },
+  {
+    "name": "Tim Smith - Tee - Over / Under load drill",
+    "number": 42,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "2JicugR6yz4"
+  },
+  {
+    "name": "Tim Smith - Tee - Stay inside the ball with net",
+    "number": 43,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "e4Bg6HaQAK0"
+  },
+  {
+    "name": "Tim Smith - Tee - Feel the plane",
+    "number": 44,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "NZoP1daRVNU"
+  },
+  {
+    "name": "Tim Smith - Tee - Bat toss drill",
+    "number": 45,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "wHqu6GyoE9E"
+  },
+  {
+    "name": "Tim Smith - Tee - Flamingo drill",
+    "number": 46,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "aeJ5wlPaHtE"
+  },
+  {
+    "name": "Tim Smith - Tee - The Chair drill",
+    "number": 47,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "DNBtxF7v6t8"
+  },
+  {
+    "name": "Tim Smith - Tee - Step down drill",
+    "number": 48,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "hGQIqYiwaP0"
+  },
+  {
+    "name": "Bergy - Tee - Frapper avec les hanches",
+    "number": 49,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "-qYnJUD2FWU"
+  },
+  {
+    "name": "Bergy - Tee - Baton de PVC de 6 pieds",
+    "number": 50,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "gKmGHYy0Apc"
+  },
+  {
+    "name": "Bergy -Tee - 6 foot PVC bat",
+    "number": 51,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "_bekJEZ4R8I"
+  },
+  {
+    "name": "Bergy - Tee - Swing with the Hips",
+    "number": 52,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "AyjPqR2378c"
+  },
+  {
+    "name": "Bergy - Tee - On plane avec tuyaux de PVC",
+    "number": 53,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "oRlI3qzHglY"
+  },
+  {
+    "name": "Bergy - Tee - Balle Lourde",
+    "number": 54,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "d3MNnODSmDU"
+  },
+  {
+    "name": "Bergy - Tee - Bottom hand drill",
+    "number": 55,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "8knfSh8ihQ8"
+  },
+  {
+    "name": "Bergy - Tee - Main du bas",
+    "number": 56,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "Yupcz2bu_44"
+  },
+  {
+    "name": "Bergy - Tee - Main du haut",
+    "number": 57,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "m7kbncwfq4Y"
+  },
+  {
+    "name": "Bergy - Tee - One knee drill",
+    "number": 58,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "kSC7IbAYYUI"
+  },
+  {
+    "name": "Bergy - Tee - Un genou au sol",
+    "number": 59,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "AEzBQngrb5U"
+  },
+  {
+    "name": "Bergy - Tee - Pas arrière",
+    "number": 60,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "aj_pBX8pCak"
+  },
+  {
+    "name": "Bergy - Tee - Le Velcro",
+    "number": 61,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "_NwLLzD4vYE"
+  },
+  {
+    "name": "Bergy - Tee - La Hache",
+    "number": 62,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "YB7soMTzMoA"
+  },
+  {
+    "name": "Bergy - Tee - Le Step down",
+    "number": 63,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "L4XA6v2cing"
+  },
+  {
+    "name": "Bergy - Tee - Ballon à l'épaule",
+    "number": 64,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "ie8NvAMY3TI"
+  },
+  {
+    "name": "Bergy - Tee - Le Balancier",
+    "number": 65,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "RPcjAG3jR_g"
+  },
+  {
+    "name": "Bergy - Tee - Rester a l'interieur de la balle",
+    "number": 66,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "55DREYRmN-g"
+  },
+  {
+    "name": "Bergy - Tee - 2 Tee",
+    "number": 67,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "keNyMHLgQHI"
+  },
+  {
+    "name": "Bergy - Tee - Empêcher le pas sortant",
+    "number": 68,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "ne4R6cBDzTQ"
+  },
+  {
+    "name": "Bergy - Tee - Stop stepping in the bucket",
+    "number": 69,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "8FoLC0x0CtQ"
+  },
+  {
+    "name": "Bergy - Tee - Ne pas plonger",
+    "number": 70,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "K6ZixJDRAFc"
+  },
+  {
+    "name": "Bergy - Tee - Stop diving in",
+    "number": 71,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "ypbgnX0KRGo"
+  },
+  {
+    "name": "Bergy - Tee - Frapper en équilibre(2X6)",
+    "number": 72,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "gwOxnMNWg5Q"
+  },
+  {
+    "name": "Bergy - Tee - Hitting balanced on 2X6",
+    "number": 73,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "bEniXe5H55M"
+  },
+  {
+    "name": "Bergy - Tee - Bosu au pied arrière",
+    "number": 74,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "U23mtP1z-P0"
+  },
+  {
+    "name": "Bergy - Tee - Football drill",
+    "number": 75,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "6b-_hkbR8WE"
+  },
+  {
+    "name": "Bergy - Tee - Ballon de Football",
+    "number": 76,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "pefFfL3Hc6Q"
+  },
+  {
+    "name": "Bergy - Tee - Skinny bat drill",
+    "number": 77,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "MNRO4gwoFY8"
+  },
+  {
+    "name": "Bergy - Tee - Baton mince",
+    "number": 78,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "2i0C9ophBQE"
+  },
+  {
+    "name": "Bergy - Tee - Chaudirère au pied arrière",
+    "number": 79,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "TXks6f5s4H4"
+  },
+  {
+    "name": "Bergy - Tee - La Chaise",
+    "number": 80,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "6oCC80USyBo"
+  },
+  {
+    "name": "Bergy - Tee - Bâton pesant / Bâton léger",
+    "number": 81,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "P8n_5DPuOus"
+  },
+  {
+    "name": "Josue Peley - Tee - Abaissé",
+    "number": 117,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "9aFxHb3OzVA"
+  },
+  {
+    "name": "Josue Peley - Tee - Low Tee",
+    "number": 118,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "DUpPS2JrHuU"
+  },
+  {
+    "name": "Josue Peley - Tee - Pas sauté",
+    "number": 119,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "3QGlmmbTVlg"
+  },
+  {
+    "name": "Josué Peley - Tee - Axe 2.0",
+    "number": 120,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "0l_jELUsas4"
+  },
+  {
+    "name": "Bergy - Tee - Closed 45 V2",
+    "number": 160,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "g-YB5A-otRA"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Deuxième Tee",
+    "number": 161,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "gsjzGqsWUp0"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Second Tee",
+    "number": 162,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "2jYEP-8Qd3o"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Drop step",
+    "number": 163,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "aDqXDwxhj9Q"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Intérieur OU Extérieur",
+    "number": 164,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "3vlXDXwDIQA"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - In or Out",
+    "number": 165,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "WVUv8zwKPaM"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Main du bas relachée",
+    "number": 166,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "A9ol8fC8d0A"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Loose bottom hand",
+    "number": 167,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "A-0LAF3kY5g"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Top hand catch",
+    "number": 168,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "tJ1i37iqPX4"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - L'attrapé de la main du haut",
+    "number": 169,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "t6zu7DhzplE"
+  },
+  {
+    "name": "Josué Peley(baseball) - Tee - Hanche 2.0",
+    "number": 170,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "W9_7qvhSPdw"
+  },
+  {
+    "name": "Bergy - Tee_Connection ball - Connection main du haut",
+    "number": 171,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "7482pXj7VAk"
+  },
+  {
+    "name": "Bergy - Tee_Connection ball - Top hand connection",
+    "number": 172,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "O0KEwKAAlow"
+  },
+  {
+    "name": "Bergy - Tee_Connection ball - Connection main du bas",
+    "number": 173,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "X7TPTkadZlI"
+  },
+  {
+    "name": "Bergy - Tee_Connection ball - Bottom hand connection",
+    "number": 174,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "wVFOZlaQnWk"
+  },
+  {
+    "name": "Bergy - Tee - Élan régulier",
+    "number": 175,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "xLHY2g5bdgc"
+  },
+  {
+    "name": "Bergy - Tee - Regular swing",
+    "number": 176,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "XT85tkEO-54"
+  },
+  {
+    "name": "Bergy - Tee - La Fente",
+    "number": 177,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "FaZOZxtRLBU"
+  },
+  {
+    "name": "Bergy - Tee - The Lunge",
+    "number": 178,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "smOPtTrKSeg"
+  },
+  {
+    "name": "Bergy - Tee_Connection ball - Ballon connection (Bas)",
+    "number": 179,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "R5OeUbs9QbM"
+  },
+  {
+    "name": "Bergy - Tee_Connection ball - Connection ball (Bottom)",
+    "number": 180,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "6JTIEo7pkHE"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Le Split",
+    "number": 181,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "5mc_M3I4ehM"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Slplit Stance",
+    "number": 182,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "o2tHlu_f6Nw"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Tir à l'arc",
+    "number": 183,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "_4GDfPTtwZg"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Bow and arrow",
+    "number": 184,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "yR4WLHgG9kY"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Pas de bébé",
+    "number": 185,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "x8QydF-i0tM"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Baby steps",
+    "number": 186,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "ein_pqa5-So"
+  },
+  {
+    "name": "Brad(Softball) - Tee - La Fente (avec pause)",
+    "number": 187,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "HhTcWD5I42A"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Lunge (with pause)",
+    "number": 188,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "fM5nVIGk8pw"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Flamingo renversé",
+    "number": 189,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "OtHlwPDjckQ"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Reverse Flamingo",
+    "number": 190,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "yGXmqSQbfyE"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Prêts partez",
+    "number": 191,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "7RJPZYw_KLg"
+  },
+  {
+    "name": "Brad(Softball) - Tee - Ready - Set - Go!",
+    "number": 192,
+    "duration": "Hitting",
+    "imageUrl": "https:????????????",
+    "link": "UX3P3HRfrdk"
+  }
+]
